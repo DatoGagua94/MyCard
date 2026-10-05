@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+}
+
+
+.profession {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+#name {
+    color:orange;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+}
+
+button:hover {
+    background-color: yellow;
+}
